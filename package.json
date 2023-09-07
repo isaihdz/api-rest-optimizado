@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-movies",
+  "version": "1.0.0",
+  "description": "Ejemplo práctico de consumo de API REST con Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaihdz/api-rest-movies.git"
+  },
+  "author": "@isaizdh :)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isaihdz/api-rest-movies/issues"
+  },
+  "homepage": "https://github.com/isaihdz/api-rest-movies#readme"
+}
